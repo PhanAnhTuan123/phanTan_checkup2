@@ -1,6 +1,4 @@
 package vn.com.leaseLink;
-
-import lombok.SneakyThrows;
 import vn.com.leaseLink.dao.DoctorDAO;
 import vn.com.leaseLink.dao.DoctorDAOImpl;
 import vn.com.leaseLink.entity.Doctor;
